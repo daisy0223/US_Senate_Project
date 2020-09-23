@@ -1,5 +1,5 @@
 
-# Georgia Tech US
+# Georgia Tech US Senator
 
 ## Webpage
 
