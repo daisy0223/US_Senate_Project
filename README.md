@@ -1,5 +1,5 @@
 
-#Georgia 
+#Georgia Tech 
 
 ## Webpage
 
