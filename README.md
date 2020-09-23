@@ -1,7 +1,7 @@
 
 # Project 2 
 
-## Project Webpage
+## Webpage
 
 [Know your Senator](https://sai-praneeth-reddy.github.io/GT_US_Senate/)
 
